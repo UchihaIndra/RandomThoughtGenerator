@@ -1,2 +1,2 @@
 # RandomThoughtGenerator
-it generates random quotes,thought
+it generates random quotes,thought in java
