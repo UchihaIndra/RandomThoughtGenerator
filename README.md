@@ -1,2 +1,6 @@
 # RandomThoughtGenerator
 it generates random quotes,thought in java
+
+The program is written in Netbeans...
+
+Before using the file edit file location...
